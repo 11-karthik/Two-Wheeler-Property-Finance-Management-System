@@ -1,17 +1,22 @@
-# Two-Wheeler & Property Finance Management System  
-My first real-world full-stack project to digitize finance records and help our family business.  
+# Two-Wheeler & Property Finance Management System
 
-###  Key Features:  
-- Loan eligibility calculator  
-- Loan application form  
-- EMI & interest tracking  
-- Admin verification and manual updates  
+## 📌 Vision
+This full-stack project aims to digitize our family’s manual loan management system. It simplifies loan application, EMI tracking, and admin control — built using React, Node.js, and MySQL.
 
-###  Tech Stack  
-- React.js  
-- Node.js / Spring Boot  
-- MySQL  
+## 🎯 Features
+- Loan Eligibility Checker
+- EMI Calculator
+- Online Loan Application
+- Payment Reminder Alerts
+- Admin Dashboard with Verification Tools
 
-###  Timeline: 60 days (Started: 23/03/2025)  
+## 🔧 Tech Stack
+- Frontend: React.js
+- Backend: Node.js + Express
+- Database: MySQL
+- Deployment: Netlify + Railway (planned)
 
-*This project is part of my learning journey to build practical skills by solving real problems.*  
+## 📅 Timeline
+Project start: 23/03/25  
+Restart: 09/05/25  
+Expected completion: 30/05/25  
